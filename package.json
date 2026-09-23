@@ -23,11 +23,11 @@
     "d3-geo": "3.1.1"
   },
   "devDependencies": {
-    "@axe-core/playwright": "4.12.1",
-    "@playwright/test": "1.61.1",
-    "eslint": "10.7.0",
-    "prettier": "3.9.6",
-    "vite": "8.1.5",
-    "vitest": "4.1.10"
+    "@axe-core/playwright": "4.13.0",
+    "@playwright/test": "1.63.0",
+    "eslint": "10.11.0",
+    "prettier": "3.9.8",
+    "vite": "8.3.0",
+    "vitest": "5.0.1"
   }
 }
